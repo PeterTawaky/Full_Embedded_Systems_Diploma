@@ -2,7 +2,7 @@
 	odd ✅
 	Even = even-1-->turns into Odd 
 	r = size
-	*       //1  //4 spaces                 r1
+    *       //1  //4 spaces                 r1
    ***      //3  //3 spaces to start        r2
   *****     //5  //2 spaces                 r3
  *******    //7  //1 space                  r4
