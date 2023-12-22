@@ -1,0 +1,20 @@
+    Size should be Odd
+	odd ✅
+	Even = even-1-->turns into Odd 
+	r = size
+	*       //1  //4 spaces                 r1
+   ***      //3  //3 spaces to start        r2
+  *****     //5  //2 spaces                 r3
+ *******    //7  //1 space                  r4
+*********   //9  //no spaces                r5
+ *******                                    r6
+  *****                                     r7
+   ***                                      r8
+    *                                       r9
+	//upper_Part
+	//lower_part
+-----> get Relation Between All Variables
+space reset at each line
+space change play in it
+print reset at each Line
+print change play in it
