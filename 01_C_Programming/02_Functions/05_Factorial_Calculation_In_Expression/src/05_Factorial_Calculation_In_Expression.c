@@ -52,7 +52,7 @@ int factorial( int number )
 /*
 	History Log
 	-------------------------------------------------
-	Date				By				Brief
+	Date			By		Brief
 	-------------     	------------- 	-------------
-	15.Dec,2023			Peter Tawaky	Implementation
+	15.Dec,2023		Peter Tawaky	Implementation
  */
